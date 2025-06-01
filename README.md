@@ -386,47 +386,12 @@ Consider adding:
 - Database connection pooling metrics
 - Request/response time tracking
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Standards
-
-- Follow Go conventions and best practices
-- Use `gofmt` for code formatting
-- Write comprehensive tests
-- Document public functions and methods
-- Keep functions small and focused
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- [Fiber](https://gofiber.io/) - Express-inspired web framework
-- [GORM](https://gorm.io/) - Fantastic ORM library for Go
-- [JWT-Go](https://github.com/golang-jwt/jwt) - JWT implementation
-- [bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt) - Password hashing
-
-## 📚 Additional Resources
-
-- [Go Documentation](https://golang.org/doc/)
-- [Fiber Documentation](https://docs.gofiber.io/)
-- [GORM Documentation](https://gorm.io/docs/)
-- [JWT Best Practices](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/)
-- [API Security Best Practices](https://owasp.org/www-project-api-security/)
+- GitHub: [@GohilVinit](https://github.com/GohilVinit)
+- LinkedIn: [Vinit gohil](https://www.linkedin.com/in/vinit-gohil-b46104311/)
+- Email: gohilvinit03@gmail.com
 
 ---
 
